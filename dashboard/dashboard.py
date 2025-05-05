@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
-sum_products_df = pd.read_csv('https://raw.githubusercontent.com/Vellllll/proyek-analisis-data/main/sum_products_df.csv')
-sum_sellers_df = pd.read_csv('https://raw.githubusercontent.com/Vellllll/proyek-analisis-data/main/sum_sellers_df.csv')
+sum_products_df = pd.read_csv('https://raw.githubusercontent.com/Vellllll/proyek-analisis-data/main/dashboard/sum_products_df.csv')
+sum_sellers_df = pd.read_csv('https://raw.githubusercontent.com/Vellllll/proyek-analisis-data/main/dashboard/sum_sellers_df.csv')
 
 st.header('Brazilian E-commerce Dashboard :sparkles:')
 st.subheader('Products distribution')
@@ -37,10 +37,15 @@ sellers_options = st.radio(
     horizontal = True
 )
 
+seller_states = sum_sellers_df['seller_state'].unique()
+seller_states.sort()
+
 sellers_select_by_state = st.selectbox(
-    label="What's your favorite movie genre",
-    options=('Comedy', 'Drama', 'Documentary')
+    label="Filter berdasarkan state seller",
+    options=seller_states
 )
+
+sum_sellers_df = sum_sellers_df[sum_sellers_df['seller_state'] == sellers_select_by_state]
 
 col1, col2, col3 = st.columns(3)
 
