@@ -25,5 +25,6 @@ pip install -r requirements.txt
 
 ```bash
 cd submission
+cd dashboard
 streamlit run dashboard.py
 ```

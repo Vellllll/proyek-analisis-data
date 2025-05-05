@@ -1,0 +1,612 @@
+seller_city,product_id,order_item_id,price,seller_state
+sao paulo,27983,27983,2702878.14,SP
+ibitinga,7750,7750,624592.9400000001,SP
+curitiba,3016,3016,470759.82,PR
+rio de janeiro,2442,2442,358413.59,RJ
+guarulhos,2362,2362,329494.38,SP
+ribeirao preto,2269,2269,275976.44,SP
+itaquaquecetuba,1653,1653,230568.12,SP
+guariba,1156,1156,229472.63,SP
+santo andre,2964,2964,228561.6,SP
+lauro de freitas,411,411,225525.05,BA
+piracicaba,1903,1903,212677.82,SP
+belo horizonte,2593,2593,207671.23,MG
+maringa,2220,2220,207257.51,PR
+barueri,474,474,196053.17,SP
+sao jose do rio preto,2579,2579,195863.38,SP
+sumare,608,608,195825.21,SP
+sao bernardo do campo,1125,1125,179363.91,SP
+campinas,1430,1430,179285.45,SP
+teresopolis,233,233,130342.09,RJ
+salto,1346,1346,126274.45,SP
+petropolis,840,840,117649.8,RJ
+santa barbara d´oeste,350,350,112500.31,SP
+limeira,933,933,112472.92,SP
+porto alegre,802,802,104088.3,RS
+ilicinea,770,770,101901.16,MG
+campo limpo paulista,1195,1195,101372.8,SP
+londrina,404,404,100689.59,PR
+cascavel,532,532,100464.68,PR
+osasco,605,605,99693.57,SP
+jacarei,954,954,92653.77,SP
+sao jose dos campos,803,803,89291.04,SP
+brasilia,861,861,87795.0,DF
+franca,644,644,87498.76,SP
+praia grande,1333,1333,87374.63,SP
+joinville,670,670,86892.22,SC
+recife,401,401,85376.0,PE
+videira,303,303,76885.4,SC
+itatiba,482,482,68624.91,SP
+diadema,200,200,68174.73,SP
+sorocaba,586,586,64421.04,SP
+caxias do sul,228,228,63923.82,SP
+nova friburgo,90,90,62579.26,RJ
+bombinhas,94,94,60130.6,SC
+mogi guacu,231,231,60059.25,SP
+araraquara,234,234,56828.09,SP
+riberao preto,268,268,56363.24,SP
+sao caetano do sul,169,169,55010.63,SP
+itauna,270,270,54824.22,MG
+lages,122,122,52623.84,SC
+penapolis,447,447,48319.72,SP
+uberlandia,416,416,47959.43,MG
+pradopolis,165,165,47928.68,SP
+brusque,393,393,47626.85,SC
+jau,442,442,47587.49,SP
+mogi das cruzes,403,403,45803.89,SP
+santos,562,562,45479.63,SP
+araguari,512,512,45029.15,MG
+presidente prudente,424,424,44594.39,SP
+blumenau,488,488,43632.840000000004,SC
+pedreira,708,708,42923.35,SP
+atibaia,620,620,41300.11,SP
+uba,229,229,40572.87,MG
+borda da mata,511,511,40347.64,MG
+formiga,158,158,38340.76,MG
+goiania,286,286,37946.62,GO
+sao goncalo,376,376,37503.31,RJ
+umuarama,193,193,37478.28,PR
+guara,259,259,37153.4,SP
+hortolandia,339,339,36836.369999999995,SP
+sao luis,405,405,36408.95,MA
+braganca paulista,99,99,36230.12,SP
+marilia,232,232,34358.69,SP
+indaiatuba,292,292,33964.1,SP
+itajai,263,263,33142.73,SC
+novo hamburgo,146,146,32312.62,RS
+cotia,232,232,32174.22,SP
+jundiai,275,275,30681.69,SP
+rolandia,184,184,29840.68,PR
+divinopolis,140,140,29185.05,MG
+maua,491,491,29088.75,SP
+monte siao,269,269,29052.53,MG
+florianopolis,250,250,28698.05,SC
+colombo,144,144,28617.79,PR
+montenegro,142,142,27359.9,RS
+niteroi,87,87,27347.56,RJ
+betim,306,306,26818.63,MG
+assis,317,317,26178.23,SP
+serra negra,198,198,26065.8,SP
+sarandi,185,185,26049.45,PR
+macae,43,43,25685.399999999998,RJ
+baependi,194,194,25617.69,MG
+cajamar,204,204,25414.89,SP
+vicosa,44,44,25277.8,MG
+cariacica,240,240,25200.03,ES
+jaragua do sul,217,217,24914.23,SC
+foz do iguacu,197,197,23647.96,PR
+tres coracoes,263,263,23103.24,MG
+garca,115,115,22979.63,SP
+congonhal,109,109,22873.21,MG
+pinhais,167,167,22834.03,PR
+navegantes,131,131,22710.05,SC
+suzano,88,88,22388.13,SP
+santa barbara d'oeste,295,295,22090.34,SP
+santo angelo,62,62,21992.78,RS
+carapicuiba,214,214,21859.62,SP
+bauru,192,192,21841.79,SP
+pirituba,175,175,21712.9,SP
+contagem,183,183,21456.11,MG
+votuporanga,138,138,21107.47,SP
+apucarana,136,136,20758.38,PR
+salvador,119,119,20642.48,BA
+santana de parnaiba,169,169,20228.04,SP
+cachoeirinha,67,67,20146.3,RS
+votorantim,262,262,20056.34,SP
+canoas,172,172,19709.39,RS
+arapongas,142,142,19492.51,PR
+sao jose dos pinhais,158,158,18539.24,PR
+viamao,81,81,17568.08,RS
+capivari,172,172,17546.28,SP
+guanambi,22,22,17522.0,BA
+ribeirao pires,231,231,17266.56,SP
+laranjal paulista,251,251,17246.81,SP
+andradas,57,57,17212.49,SP
+sao carlos,165,165,16994.96,SP
+rio do sul,208,208,16890.25,SC
+registro,76,76,16786.84,SP
+uberaba,49,49,16401.260000000002,MG
+fortaleza,50,50,16104.12,CE
+louveira,142,142,15960.95,SP
+juiz de fora,129,129,15615.09,MG
+patos de minas,167,167,15198.300000000001,MG
+sao ludgero,119,119,15082.1,SC
+itapecerica da serra,185,185,14989.67,SP
+campo mourao,55,55,14737.84,PR
+americana,109,109,14439.82,SP
+mamanguape,16,16,14368.61,PB
+porto ferreira,226,226,14274.18,SP
+rio claro,118,118,14094.130000000001,SP
+sao jose,150,150,13887.18,SC
+tupa,85,85,13735.41,SP
+jaboticabal,137,137,13719.06,SP
+teixeira soares,78,78,13533.65,PR
+botucatu,134,134,13485.51,SP
+congonhas,41,41,13422.24,MG
+jussara,92,92,13154.7,PR
+mirandopolis,78,78,13132.2,SP
+campo largo,75,75,13011.6,PR
+volta redonda,156,156,12954.79,SP
+amparo,97,97,12650.07,SP
+sete lagoas,278,278,12514.699999999999,MG
+queimados,66,66,12333.390000000001,RJ
+serrana,18,18,12227.82,SP
+s jose do rio preto,112,112,11983.28,SP
+santa rita do sapucai,105,105,11946.2,MG
+birigui,134,134,11729.85,SP
+sombrio,17,17,11423.6,SC
+bariri,35,35,11366.5,SP
+jacutinga,109,109,10917.41,RS
+araras,46,46,10790.85,SP
+itajobi,23,23,10723.08,SP
+timbo,114,114,10574.95,SC
+fernandopolis,108,108,10508.83,SP
+sao  paulo,52,52,10309.42,SP
+aparecida de goiania,79,79,10292.310000000001,GO
+itapevi,77,77,10241.74,SP
+paincandu,9,9,10220.5,PR
+campo bom,20,20,10170.3,RS
+francisco beltrao,72,72,10076.55,PR
+guaruja,63,63,9978.75,SP
+ipatinga,37,37,9784.5,MG
+varginha,29,29,9630.05,MG
+lajeado,67,67,9549.49,RS
+ponte nova,97,97,9478.300000000001,MG
+sao roque,99,99,9456.77,SP
+bofete,3,3,9399.97,SP
+paulinia,43,43,9392.06,SP
+gama,33,33,9385.699999999999,DF
+castro,21,21,9347.55,PR
+lencois paulista,106,106,9195.220000000001,SP
+vicente de carvalho,225,225,9027.4,SP
+cuiaba,88,88,8968.22,MT
+carazinho,57,57,8909.48,RS
+ilheus,21,21,8865.47,BA
+sao paulo - sp,106,106,8791.7,SP
+mateus leme,26,26,8757.98,MG
+sao joaquim da barra,66,66,8711.4,SP
+sao sebastiao,48,48,8599.0,SP
+valinhos,90,90,8576.39,SP
+poa,165,165,8526.04,SP
+nilopolis,48,48,8470.7,RJ
+vila velha,22,22,8405.89,SP
+pompeia,33,33,8311.88,SP
+scao jose do rio pardo,64,64,8285.42,SP
+catanduva,46,46,7994.45,SP
+duque de caxias,26,26,7914.8,RJ
+canoinhas,157,157,7866.9,SC
+claudio,141,141,7821.66,MG
+tubarao,34,34,7807.33,SC
+sinop,55,55,7784.5,MT
+california,6,6,7630.0,PR
+arraial d'ajuda (porto seguro),30,30,7595.87,BA
+conselheiro lafaiete,57,57,7533.5,MG
+criciuma,34,34,7499.900000000001,SC
+nova iguacu,71,71,7440.599999999999,RJ
+ipaussu,74,74,7268.0,SP
+timoteo,15,15,7058.0,MG
+parai,31,31,6911.71,RS
+pocos de caldas,120,120,6906.99,MG
+luiz alves,8,8,6729.5,SC
+mage,55,55,6693.6900000000005,RJ
+icara,60,60,6674.0,SC
+alfenas,68,68,6610.58,MG
+natal,39,39,6576.0,RN
+fazenda rio grande,72,72,6545.62,PR
+vendas@creditparts.com.br,38,38,6381.78,PR
+cruzeiro,95,95,6271.9800000000005,SP
+mesquita,80,80,6182.61,RJ
+bebedouro,135,135,6018.97,SP
+dracena,240,240,5986.6,SP
+campo grande,33,33,5892.79,MS
+coronel fabriciano,42,42,5878.0,MG
+taboao da serra,78,78,5788.62,SP
+novo horizonte,31,31,5788.52,SP
+balneario camboriu,30,30,5769.93,SC
+batatais,62,62,5693.53,SP
+cosmopolis,18,18,5673.0,SP
+sao leopoldo,13,13,5475.9,RS
+sao joao del rei,53,53,5370.8,MG
+sao paluo,9,9,5279.91,SP
+lagoa da prata,49,49,5274.1,MG
+taubate,68,68,5149.88,SP
+curitibanos,24,24,5117.79,SC
+jales,101,101,5039.9,SP
+sao joao de meriti,50,50,4970.83,RJ
+ribeirao das neves,50,50,4956.96,MG
+sp,39,39,4910.2,SP
+sao pedro,36,36,4907.31,SP
+palhoca,40,40,4844.65,SC
+tabatinga,39,39,4777.47,SP
+fronteira,46,46,4705.29,MG
+bertioga,71,71,4702.96,SP
+barretos,58,58,4609.7,SP
+paraiba do sul,25,25,4537.6,RJ
+loanda,40,40,4490.18,PR
+cafelandia,43,43,4489.27,SP
+entre rios do oeste,8,8,4465.34,PR
+muqui,26,26,4353.9,ES
+rio verde,18,18,4278.75,GO
+araucaria,33,33,4215.09,PR
+tatui,59,59,4198.88,SP
+jaguariuna,67,67,4163.5,SP
+mirassol,36,36,3983.1600000000003,SP
+anapolis,35,35,3965.42,GO
+aracatuba,79,79,3883.91,SP
+montes claros,6,6,3849.14,MG
+toledo,41,41,3716.57,PR
+tres rios,108,108,3714.83,RJ
+rio bonito,8,8,3694.0,RJ
+concordia,26,26,3662.0,SC
+rodeio,14,14,3656.3,SC
+brejao,36,36,3654.25,PE
+santo antonio de posse,21,21,3654.0,SP
+indaial,8,8,3636.88,SC
+ferraz de vasconcelos,35,35,3622.8900000000003,SP
+bady bassitt,22,22,3612.7200000000003,SP
+ibia,40,40,3610.7000000000003,MG
+porto velho,6,6,3579.94,RO
+mandirituba,15,15,3578.0,PR
+vitoria,23,23,3507.9700000000003,ES
+dois corregos,36,36,3477.7,SP
+cachoeiro de itapemirim,13,13,3473.79,ES
+arvorezinha,23,23,3446.9,RS
+echapora,65,65,3418.26,SP
+japira,11,11,3415.7,PR
+mogi mirim,53,53,3357.86,SP
+parnamirim,14,14,3266.6,RN
+jaguaruna,68,68,3266.6,SC
+imbe,9,9,3221.5,RS
+descalvado,17,17,3220.7599999999998,SP
+campo do meio,17,17,3148.0,MG
+morrinhos,39,39,3075.24,GO
+pilar do sul,26,26,3072.3,SP
+cornelio procopio,54,54,3026.0,PR
+bento goncalves,32,32,2999.09,RS
+barra mansa,27,27,2921.35,RJ
+conchal,21,21,2912.96,SP
+ouro fino,16,16,2877.7,MG
+caucaia,28,28,2777.7200000000003,CE
+santa terezinha de itaipu,38,38,2716.52,PR
+mombuca,33,33,2666.7000000000003,SP
+coxim,17,17,2658.9,MS
+massaranduba,21,21,2658.45,SC
+santo antonio de padua,16,16,2575.9,RJ
+buritama,15,15,2575.9,SP
+aruja,31,31,2559.31,SP
+artur nogueira,24,24,2528.8,SP
+teresina,12,12,2522.0,PI
+tiradentes,23,23,2511.5,MG
+vargem grande paulista,16,16,2489.3,SP
+guaratuba,22,22,2449.49,PR
+uruacu,22,22,2442.71,GO
+garopaba,14,14,2430.0,SC
+braco do norte,23,23,2418.2999999999997,SC
+mococa,38,38,2411.3,SP
+santa rosa de viterbo,12,12,2381.0,SP
+angra dos reis,6,6,2368.8,RJ
+paulo lopes,7,7,2344.98,SC
+monteiro lobato,44,44,2338.25,SP
+farroupilha,45,45,2325.9900000000002,RS
+xanxere,8,8,2297.0499999999997,SC
+luziania,16,16,2284.98,GO
+bocaiuva do sul,11,11,2243.9,PR
+mairipora,23,23,2222.98,SP
+vitoria de santo antao,3,3,2217.99,PE
+sao bento do sul,16,16,2201.1,SC
+ponta grossa,23,23,2138.51,PR
+portao,28,28,2042.98,RS
+taruma,13,13,1912.15,SP
+paranavai,17,17,1872.79,PR
+cerqueira cesar,20,20,1871.7,SP
+mineiros do tiete,61,61,1822.11,SP
+socorro,24,24,1812.96,SP
+sando andre,15,15,1772.45,SP
+vargem grande do sul,12,12,1750.5,SP
+mandaguari,4,4,1716.0,PR
+tanabi,16,16,1715.89,SP
+lorena,10,10,1711.5,SP
+joao pessoa,10,10,1695.49,PB
+lages - sc,3,3,1692.0,SC
+campos dos goytacazes,12,12,1667.0,RJ
+cananeia,12,12,1642.0,SP
+flores da cunha,11,11,1641.8,RS
+itu,29,29,1641.0,SP
+marechal candido rondon,21,21,1632.49,SP
+ouro preto,18,18,1622.74,MG
+aperibe,20,20,1610.33,RJ
+sao  jose dos pinhais,2,2,1598.0,PR
+vespasiano,8,8,1597.3,MG
+pitanga,14,14,1582.29,PR
+tiete,11,11,1552.27,SP
+ampere,24,24,1552.0,PR
+marica,11,11,1548.9,RJ
+ipira,5,5,1541.9,BA
+sbc/sp,10,10,1535.2,SP
+cataguases,4,4,1520.0,MG
+joao pinheiro,4,4,1519.96,MG
+monte alto,6,6,1499.94,SP
+eunapolis,14,14,1486.8,BA
+ubatuba,19,19,1471.54,SP
+jaci,7,7,1468.4,SP
+laranjeiras do sul,3,3,1459.97,SP
+campina das missoes,21,21,1438.11,RS
+ivoti,2,2,1400.0,RS
+itaipulandia,11,11,1397.8400000000001,PR
+tabao da serra,8,8,1372.3,SP
+porto belo,16,16,1369.7,SC
+formosa do oeste,11,11,1349.1,PR
+rio negrinho,6,6,1341.45,SC
+embu das artes,3,3,1332.0,SP
+lagoa santa,12,12,1328.02,MG
+holambra,7,7,1322.93,SP
+venancio aires,9,9,1322.31,RS
+porto seguro,15,15,1320.7,BA
+pederneiras,9,9,1294.97,SP
+jambeiro,4,4,1280.0,SP
+guanhaes,10,10,1252.0,MG
+chapeco,8,8,1240.5,SC
+osvaldo cruz,4,4,1235.1599999999999,SP
+feira de santana,3,3,1230.0,BA
+sabara,7,7,1217.9,MG
+extrema,5,5,1208.0,MG
+ribeirao preto / sao paulo,39,39,1208.0,SP
+santa maria,4,4,1205.88,RS
+sao jose do rio pardo,25,25,1191.75,SP
+floresta,22,22,1190.87,PR
+araxa,4,4,1188.79,MG
+ji parana,8,8,1182.26,RO
+manaus,3,3,1177.0,AM
+imbituba,14,14,1173.6,SC
+nova lima,11,11,1154.35,MG
+sao francisco do sul,2,2,1154.0,SC
+piracanjuba,8,8,1135.2,GO
+mogi das cruses,14,14,1104.7,SP
+aracaju,5,5,1096.7,SE
+nova petropolis,8,8,1077.8000000000002,RS
+sp / sp,12,12,1045.47,SP
+vassouras,12,12,1041.3,RJ
+dores de campos,3,3,1026.5,MG
+pinhais/pr,4,4,989.74,PR
+terra boa,7,7,973.6,PR
+itapeva,8,8,917.0,SP
+boituva,18,18,908.2,SP
+cambe,6,6,887.38,PR
+camanducaia,12,12,871.8,MG
+colorado,10,10,863.42,PR
+domingos martins,21,21,862.9,ES
+andira-pr,51,51,861.9,PR
+estancia velha,14,14,861.8,RS
+santa barbara d oeste,9,9,855.91,SP
+bahia,5,5,849.5,BA
+aparecida,48,48,847.35,SP
+orlandia,6,6,839.4000000000001,SP
+campo magro,3,3,832.4100000000001,PR
+franco da rocha,8,8,822.7,SP
+rio grande,16,16,822.58,RS
+carapicuiba / sao paulo,9,9,810.95,SP
+engenheiro coelho,17,17,793.9,SP
+"rio de janeiro, rio de janeiro, brasil",2,2,789.8,RJ
+pinhalao,11,11,765.19,PR
+guarapuava,3,3,763.1,PR
+picarras,4,4,759.0,SC
+horizontina,2,2,739.0,RS
+maua/sao paulo,2,2,734.99,SP
+sbc,1,1,730.0,SP
+sao pedro da aldeia,13,13,728.79,RJ
+arinos,10,10,724.72,MG
+rio de janeiro / rio de janeiro,5,5,721.89,RJ
+nova odessa,13,13,705.34,SP
+varzea paulista,34,34,701.54,SP
+bonfinopolis de minas,6,6,696.0,MG
+muriae,7,7,678.0,MG
+presidente epitacio,7,7,671.5,SP
+varzea alegre,2,2,658.0,CE
+colatina,4,4,656.77,ES
+mandaguacu,19,19,623.7,PR
+pedregulho,7,7,622.0,SP
+sao jose dos pinhas,7,7,604.8,PR
+sao bento,9,9,598.4,PB
+tres de maio,13,13,596.55,RS
+sao miguel d'oeste,2,2,594.98,SC
+nova trento,2,2,594.0,SC
+imbituva,8,8,578.1999999999999,PR
+soledade,2,2,578.0,RS
+brasilia df,5,5,568.78,DF
+santo andre/sao paulo,13,13,567.79,SP
+bandeirantes,5,5,539.7,PR
+santa cecilia,2,2,537.76,SC
+mairinque,10,10,514.27,SP
+laurentino,10,10,512.96,SC
+irati,4,4,512.0,PR
+auriflama/sp,6,6,510.0,SP
+neopolis,5,5,509.5,SE
+ararangua,5,5,507.75,SC
+balenario camboriu,3,3,507.0,SC
+laguna,6,6,501.20000000000005,SP
+sao jose do rio pret,4,4,499.6,SP
+presidente bernardes,7,7,489.92999999999995,SP
+itapetininga,3,3,488.88,SP
+carmo do cajuru,8,8,479.2,MG
+serra,10,10,473.27,ES
+alvorada,7,7,464.0,RS
+caieiras,4,4,463.96,SP
+mucambo,11,11,457.0,CE
+cariacica / es,7,7,453.0,ES
+embu guacu,21,21,452.2,SP
+erechim,2,2,450.0,RS
+ao bernardo do campo,4,4,434.96000000000004,SP
+garulhos,23,23,416.18,SP
+04482255,1,1,399.9,RJ
+itaborai,17,17,399.0,RJ
+caratinga,3,3,391.15,MG
+sao paulo sp,1,1,390.0,SP
+ourinhos,3,3,389.64,SP
+santa cruz do sul,3,3,388.0,RS
+igaracu do tiete,8,8,382.83,SP
+santo antonio da patrulha,2,2,376.8,RS
+guiricema,4,4,368.6,MG
+xaxim,2,2,360.0,SC
+auriflama,9,9,359.33,SP
+sao vicente,2,2,358.0,SP
+serra redonda,1,1,355.0,PB
+janauba,1,1,354.9,MG
+saquarema,15,15,346.59999999999997,RJ
+rolante,8,8,344.2,RS
+miguelopolis,3,3,339.70000000000005,SP
+portoferreira,4,4,336.0,SP
+castro pires,1,1,334.99,MG
+pelotas,13,13,330.9,RS
+jaciara,2,2,318.0,MT
+rio de janeiro \rio de janeiro,5,5,315.70000000000005,RJ
+igrejinha,3,3,314.96000000000004,RS
+jaragua,5,5,314.51,GO
+garuva,6,6,308.96000000000004,SC
+itirapina,4,4,307.6,SP
+santa terezinha de goias,9,9,302.1,GO
+treze tilias,3,3,302.06,SC
+pato branco,10,10,301.57,PR
+belford roxo,2,2,299.9,RJ
+irece,1,1,299.89,BA
+sao paulo / sao paulo,5,5,299.5,SP
+leme,6,6,298.7,SP
+afonso claudio,6,6,293.99,ES
+sao joao da boa vista,2,2,287.0,SP
+centro,9,9,280.88,MG
+paraiso do sul,5,5,277.67,RS
+nhandeara,1,1,269.9,SP
+cachoeira do sul,3,3,269.70000000000005,RS
+rio branco,1,1,267.0,AC
+armacao dos buzios,4,4,262.7,RJ
+triunfo,3,3,261.70000000000005,RS
+barra velha,5,5,257.25,SC
+sao paulop,7,7,256.39,SP
+minas gerais,1,1,249.9,MG
+ipua,1,1,249.0,SP
+bage,1,1,248.0,RS
+santa rosa,4,4,246.0,RS
+caruaru,8,8,245.61,PE
+ipe,2,2,244.0,RS
+pinhalzinho,5,5,241.5,SC
+guaira,2,2,233.89,PR
+olimpia,3,3,231.89999999999998,SP
+rio das pedras,1,1,229.9,SP
+clementina,5,5,224.3,SP
+francisco morato,6,6,223.32,SP
+camboriu,2,2,219.8,SC
+formosa,2,2,218.9,GO
+prados,2,2,210.0,MG
+presidente getulio,1,1,202.89,SC
+itaporanga,3,3,201.5,SP
+governador valadares,2,2,199.98,MG
+pedrinhas paulista,3,3,195.74,SP
+sao bernardo do capo,2,2,186.69,SP
+orleans,1,1,185.0,SC
+pedro leopoldo,3,3,182.70000000000002,MG
+jacarei / sao paulo,9,9,179.9,SP
+belo horizont,1,1,178.9,MG
+taio,3,3,175.7,SC
+parana,2,2,175.0,PR
+itapui,1,1,175.0,SP
+itau de minas,3,3,174.70000000000002,MG
+campos novos,1,1,174.0,SC
+pato bragado,3,3,172.8,PR
+barbacena,1,1,170.0,MG
+sao pauo,1,1,169.9,SP
+marapoama,1,1,169.9,SP
+lambari,2,2,165.8,MG
+santa maria da serra,4,4,164.96,SP
+bom jesus dos perdoes,3,3,161.7,SP
+joao monlevade,4,4,158.78,MG
+ribeirao pretp,2,2,153.6,SP
+gaspar,2,2,150.8,SC
+torres,3,3,149.79,RS
+sertanopolis,3,3,149.7,SP
+alvares machado,6,6,148.59,SP
+abadia de goias,1,1,142.47,GO
+monte alegre do sul,4,4,139.96,SP
+tres coroas,1,1,139.9,RS
+pacatuba,1,1,139.0,CE
+cravinhos,3,3,138.60000000000002,SP
+alambari,5,5,138.6,SP
+cordeiropolis,4,4,129.45999999999998,SP
+paracambi,1,1,125.0,RJ
+itabira,4,4,124.6,MG
+cacador,2,2,119.8,SC
+ferraz de  vasconcelos,2,2,108.0,SP
+ibirite,1,1,102.0,MG
+bom jardim,2,2,101.9,RJ
+ronda alta,1,1,100.9,RS
+messias targino,1,1,98.0,RN
+viana,1,1,98.0,ES
+marialva,1,1,92.9,PR
+vera cruz,2,2,90.98,SP
+campanha,1,1,90.0,MG
+fernando prestes,3,3,86.6,SP
+passos,1,1,86.5,MG
+santa catarina,1,1,80.9,SC
+araquari,1,1,80.0,SC
+pirassununga,1,1,79.9,SP
+rio do oeste,3,3,79.69999999999999,SC
+pitangueiras,1,1,79.39,SP
+campina grande,2,2,77.5,PB
+divisa nova,1,1,74.99,MG
+carmo da mata,1,1,74.9,MG
+barbacena/ minas gerais,1,1,69.9,MG
+"novo hamburgo, rio grande do sul, brasil",1,1,66.64,RS
+tocantins,1,1,64.9,SP
+eusebio,1,1,64.9,CE
+sao sebastiao da grama/sp,1,1,61.9,SP
+itapema,2,2,60.0,SC
+robeirao preto,2,2,60.0,SP
+medianeira,1,1,59.99,PR
+cordilheira alta,1,1,57.99,SC
+oliveira,3,3,57.0,MG
+mogi das cruzes / sp,1,1,54.0,SP
+cianorte,1,1,51.9,PR
+guaratingueta,1,1,49.99,SP
+pouso alegre,1,1,49.9,MG
+angra dos reis rj,1,1,49.0,RJ
+imigrante,1,1,48.9,RS
+são paulo,2,2,47.8,SP
+avare,1,1,47.4,SP
+uniao da vitoria,1,1,41.9,PR
+almirante tamandare,2,2,40.0,PR
+juzeiro do norte,1,1,39.9,CE
+sao miguel do oeste,1,1,39.0,SC
+barrinha,2,2,36.49,SP
+aguas claras df,1,1,35.0,SP
+uruguaiana,1,1,29.99,RS
+guaimbe,1,1,29.99,SP
+sapiranga,1,1,29.9,RS
+tambau,1,1,29.8,SP
+goioere,1,1,27.9,SP
+brotas,4,4,25.0,SP
+condor,1,1,24.9,RS
+barro alto,1,1,23.9,BA
+cascavael,1,1,21.99,PR
+resende,1,1,19.99,RJ
+floranopolis,2,2,19.98,SC
+jarinu,1,1,14.63,SP
+macatuba,1,1,13.0,SP
+palotina,1,1,9.99,PR
