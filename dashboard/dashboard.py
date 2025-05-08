@@ -15,7 +15,15 @@ product_options = st.radio(
     horizontal = True
 )
 
+product_category_name_english = st.multiselect(
+    label="What's your favorite movie genre",
+    options = sum_products_df['product_category_name_english'].unique()
+)
+
 fig, ax = plt.subplots(figsize = (20,10))
+
+if len(product_category_name_english) > 0:
+    sum_products_df = sum_products_df[sum_products_df['product_category_name_english'].isin(product_category_name_english)]
 
 sns.barplot(
     x = 'product_id',
